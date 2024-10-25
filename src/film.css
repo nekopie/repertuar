@@ -1,0 +1,23 @@
+.godzina {
+    display: flex;
+    background-color: lightgray;
+    height:fit-content;
+
+}
+.pos {
+    display:flex;
+    float: right;
+}
+img{
+    height: 150px;
+    width: 100px;
+    float: left;
+}
+.tekst{
+    width:250px;
+    float:left;
+}
+.kontener{
+    width: 500px;
+    height: 150px;
+}
